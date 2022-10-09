@@ -1,4 +1,4 @@
-package starter
+package ft
 
 type config struct {
 	// 地址

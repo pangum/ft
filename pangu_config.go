@@ -1,4 +1,4 @@
-package starter
+package ft
 
 type panguConfig struct {
 	// 主配置

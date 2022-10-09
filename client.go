@@ -1,4 +1,4 @@
-package starter
+package ft
 
 import (
 	"strings"
