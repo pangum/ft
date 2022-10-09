@@ -3,7 +3,9 @@ module github.com/pangum/ft
 go 1.18
 
 require (
-	github.com/goexl/ft v0.0.3
+	github.com/goexl/ft v0.0.4
+	github.com/pangum/http v0.0.6
+	github.com/pangum/logging v0.1.6
 	github.com/pangum/pangu v0.2.1
 )
 
@@ -24,6 +26,7 @@ require (
 	github.com/goexl/mengpo v0.2.0 // indirect
 	github.com/goexl/simaqian v0.1.3 // indirect
 	github.com/goexl/xiren v0.0.3 // indirect
+	github.com/google/go-cmp v0.4.0 // indirect
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/leodido/go-urn v1.2.1 // indirect
 	github.com/mitchellh/mapstructure v1.5.0 // indirect
@@ -31,9 +34,7 @@ require (
 	github.com/rs/xid v1.4.0 // indirect
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/sirupsen/logrus v1.9.0 // indirect
-	github.com/storezhang/cli v0.0.0-20221001141847-fc17c4311dd0 // indirect
 	github.com/storezhang/dig v0.0.1 // indirect
-	github.com/tjfoc/gmsm v1.4.1 // indirect
 	github.com/urfave/cli/v2 v2.17.1 // indirect
 	github.com/xrash/smetrics v0.0.0-20201216005158-039620a65673 // indirect
 	github.com/zs5460/art v0.2.0 // indirect
