@@ -9,7 +9,7 @@
 ![最佳语言](https://img.shields.io/github/languages/top/pangum/pangu)
 ![星星个数](https://img.shields.io/github/stars/pangum/pangu?style=social)
 
-项目介绍
+国办52号文信易贷相关接口盘古框架集成
 
 ## 捐助
 

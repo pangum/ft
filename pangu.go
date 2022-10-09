@@ -6,6 +6,6 @@ import (
 
 func init() {
 	pangu.New().Dependencies(
-		newAgent,
+		newClient,
 	)
 }
