@@ -3,7 +3,7 @@ module github.com/pangum/ft
 go 1.18
 
 require (
-	github.com/goexl/ft v0.0.5
+	github.com/goexl/ft v0.0.7
 	github.com/pangum/http v0.0.6
 	github.com/pangum/logging v0.1.7
 	github.com/pangum/pangu v0.2.4
@@ -12,7 +12,7 @@ require (
 require (
 	github.com/cpuguy83/go-md2man/v2 v2.0.2 // indirect
 	github.com/drone/envsubst v1.0.3 // indirect
-	github.com/emmansun/gmsm v0.14.1 // indirect
+	github.com/emmansun/gmsm v0.15.2 // indirect
 	github.com/fsnotify/fsnotify v1.6.0 // indirect
 	github.com/go-playground/locales v0.14.0 // indirect
 	github.com/go-playground/universal-translator v0.18.0 // indirect
@@ -24,7 +24,7 @@ require (
 	github.com/goexl/gfx v0.1.1 // indirect
 	github.com/goexl/gox v0.1.2 // indirect
 	github.com/goexl/mengpo v0.2.1 // indirect
-	github.com/goexl/simaqian v0.1.8 // indirect
+	github.com/goexl/simaqian v0.1.9 // indirect
 	github.com/goexl/xiren v0.0.3 // indirect
 	github.com/google/go-cmp v0.4.0 // indirect
 	github.com/google/uuid v1.3.0 // indirect
