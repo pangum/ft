@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/goexl/ft v0.0.7
-	github.com/pangum/http v0.0.6
+	github.com/pangum/http v0.0.7
 	github.com/pangum/logging v0.1.8
 	github.com/pangum/pangu v0.2.8
 )
