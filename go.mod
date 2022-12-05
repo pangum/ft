@@ -4,9 +4,9 @@ go 1.18
 
 require (
 	github.com/goexl/ft v0.0.7
-	github.com/pangum/http v0.0.7
+	github.com/pangum/http v0.1.3
 	github.com/pangum/logging v0.1.8
-	github.com/pangum/pangu v0.2.8
+	github.com/pangum/pangu v0.2.9
 )
 
 require (
@@ -22,10 +22,10 @@ require (
 	github.com/goexl/env v0.0.2 // indirect
 	github.com/goexl/exc v0.0.5 // indirect
 	github.com/goexl/gfx v0.1.6 // indirect
-	github.com/goexl/gox v0.1.4 // indirect
-	github.com/goexl/mengpo v0.2.2 // indirect
+	github.com/goexl/gox v0.1.6 // indirect
+	github.com/goexl/mengpo v0.2.3 // indirect
 	github.com/goexl/simaqian v0.2.0 // indirect
-	github.com/goexl/xiren v0.0.4 // indirect
+	github.com/goexl/xiren v0.0.5 // indirect
 	github.com/google/go-cmp v0.4.0 // indirect
 	github.com/google/uuid v1.3.0 // indirect
 	github.com/leodido/go-urn v1.2.1 // indirect
